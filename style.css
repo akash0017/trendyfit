@@ -9,15 +9,6 @@ body {
     background: #fdfdfd
 }
 
-.top-bar {
-    background: black;
-    color: white;
-    text-align: center;
-    padding: 6px;
-    font-size: 11px;
-    letter-spacing: 1px
-}
-
 .navbar {
     display: flex;
     justify-content: space-between;
